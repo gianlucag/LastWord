@@ -1,0 +1,8 @@
+- 1x PIC18F47K42-I/P (DIP-40)
+- 1x LCD 16x2 HD44780-compatible
+- 1x 10 kΩ trimmer (LCD contrast)
+- 2x Momentary push buttons
+- 1x 1x16 pin header (2.54 mm) for the LCD interface
+- 1x 1x6 pin header (2.54 mm) for the ICSP programming port
+- 1x 100 Ω resistor (only if required by the LCD module)
+- 1x 5 V power connector or header

@@ -2,7 +2,7 @@
 
 **A standalone, 100% auditable BIP-39 checksum assistant for entropy you generate yourself.**
 
-LastWord is not a random number generator and it does not create entropy for you. It helps you compute the checksum (colloquially associated with the last wor) of the BIP-39 mnemonic you want to build.
+LastWord is not a random number generator and it does not create entropy for you. It helps you compute the checksum (colloquially associated with the last word) of the BIP-39 mnemonic you want to build.
 
 **You provide the entropy as coin flips or dice rolls. LastWord completes the mnemonic.**
 

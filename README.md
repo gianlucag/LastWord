@@ -99,7 +99,7 @@ During entropy input, the LCD always follows the same basic layout:
 
 ```text
 +----------------+
-|W07 10110______ |
+|W07 11000______ |
 |<input controls>|
 +----------------+
 ```
@@ -112,8 +112,8 @@ When an 11-bit group is complete, LastWord pauses and displays the corresponding
 
 ```text
 +----------------+
-|W07 10110100101 |
-|1445 security   |
+|W07 11000010110 |
+|1558 security   |
 +----------------+
 ```
 

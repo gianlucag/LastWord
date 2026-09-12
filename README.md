@@ -205,8 +205,8 @@ As soon as 11 bits have been collected, LastWord displays their decimal BIP-39 i
 
 ```text
 +----------------+
-|W07 10110100101 |
-|1445 security   |
+|W07 11000010110 |
+|1558 security   |
 +----------------+
 ```
 

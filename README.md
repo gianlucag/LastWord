@@ -127,6 +127,14 @@ decimal index + BIP-39 word
 
 Press either button to continue to the next word.
 
+Here's an example of the 7th word being input (5 entropy bits provided so far):
+
+![word in progress](images/word-in-progress.png)
+
+Here's how the word is displayed when all the 11 bits are collected. The device shows the full 11 bits, the decimal representation and the word itself:
+
+![completed word](images/completed-word.png)
+
 ### Main menu
 
 After startup, the main menu provides:
